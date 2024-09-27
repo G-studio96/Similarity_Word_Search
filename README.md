@@ -1,8 +1,8 @@
 # Similarity_Word_Search-
 Java Program - Menu Driven Word Search.
 
-Project type: College.
-Grade: Distiction 
+# Project type: College.
+# Grade: Distiction 
 
 @author: GTom
 
